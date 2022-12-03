@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.18.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/MainMenu.unity
+    guid: a1b06b2e2b6e9064db5766f5890cdcc8
+  - enabled: 1
+    path: Assets/Scenes/Device Cam/DeviceCamera.unity
+    guid: 6dd1db5e25e68ff41a332c18409831d3
+  - enabled: 1
+    path: Assets/Scenes/Calibrate/Calibrate.unity
+    guid: cb1da7e9f78ea5743be4fbf39883820e
+  - enabled: 1
+    path: Assets/Scenes/Video Player/VideoPlayer.unity
+    guid: d864716af78696542b4809463bf21ecd
+  - enabled: 1
+    path: Assets/Recieving/Receiver/Receiver.unity
+    guid: d6a3fc68a1f7c05429fd88cc859bfaa1
+  - enabled: 1
+    path: Assets/Scenes/Pdf/pdfReader.unity
+    guid: 041bf2393ce7aff4eb90e7de974199ca
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cce01fbbb8249b1418e1ea643389e96f, type: 2}
